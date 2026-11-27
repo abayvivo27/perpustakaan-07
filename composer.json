@@ -1,0 +1,13 @@
+{
+    "name": "mahasiswa/perpustakaan",
+    "description": "Proyek perpustakaan Lab Sheet Pertemuan 7 (Trait, Namespace, Composer PSR-4)",
+    "type": "project",
+    "require": {
+        "php": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
